@@ -20,6 +20,7 @@
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
 
+-dontobfuscate
 
 # 防止混淆FFmpegManger下所有方法和属性
 # 保留 FFmpeg 相关类和接口
